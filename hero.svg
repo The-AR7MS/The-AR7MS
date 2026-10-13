@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+<title id="title">Welcome to AR7MS's GitHub — Junior DevOps</title>
+<desc id="desc">A dark blue welcome banner with a terminal and server illustration. Linux, containers, virtualization and networking.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1729"/><stop offset="1" stop-color="#142541"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38D5E7"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="960" height="300" rx="20" fill="url(#bg)"/>
+<rect width="960" height="300" rx="20" fill="url(#grid)"/>
+<circle cx="870" cy="10" r="180" fill="#7C3AED" opacity=".07"/>
+<circle cx="710" cy="310" r="170" fill="#06B6D4" opacity=".05"/>
+<rect x="40" y="39" width="4" height="18" rx="2" fill="#38D5E7"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+ <text x="55" y="53" font-size="13" letter-spacing="2.8" fill="#94A3B8">WELCOME TO MY GITHUB</text>
+ <text x="39" y="125" font-size="62" font-weight="700" letter-spacing="-2" fill="#F8FAFC">AR7MS<tspan fill="#38D5E7">.</tspan></text>
+ <text x="42" y="165" font-size="25" font-weight="600" fill="#E2E8F0">Junior DevOps</text>
+ <text x="42" y="197" font-size="15" fill="#94A3B8">Linux · Containers · Virtualization · Networking</text>
+ <rect x="42" y="228" width="171" height="32" rx="16" fill="#1C3549" stroke="#2B5368"/>
+ <circle cx="60" cy="244" r="4" fill="#38D5E7"/>
+ <text x="72" y="249" font-size="13" fill="#CBEDF2">Working at 9craft.ir</text>
+</g>
+<g transform="translate(625 59)">
+ <path d="M37 119H218V170H173" fill="none" stroke="#38D5E7" stroke-width="2" stroke-opacity=".45"/>
+ <rect x="0" y="0" width="258" height="150" rx="12" fill="#0B1323" stroke="#33445E"/>
+ <path d="M12 0H246Q258 0 258 12V29H0V12Q0 0 12 0" fill="#1A2A42"/>
+ <circle cx="16" cy="15" r="4" fill="#FB7185"/><circle cx="31" cy="15" r="4" fill="#FBBF24"/><circle cx="46" cy="15" r="4" fill="#34D399"/>
+ <g font-family="DejaVu Sans Mono, monospace" font-size="12">
+  <text x="20" y="55" fill="#38D5E7">ar7ms@infra:~$</text>
+  <text x="20" y="81" fill="#D3DEEB">linux · docker · proxmox</text>
+  <text x="20" y="106" fill="#8092AE">learn. build. automate.</text>
+  <text x="20" y="130" fill="#38D5E7">&gt;_</text>
+ </g>
+ <rect x="135" y="128" width="142" height="64" rx="10" fill="#172A42" stroke="#426079"/>
+ <path d="M146 160H265" stroke="#426079"/>
+ <circle cx="151" cy="146" r="3" fill="#38D5E7"/><circle cx="151" cy="176" r="3" fill="#38D5E7"/>
+ <path d="M165 146H205M165 176H205" stroke="#8092AE" stroke-width="3" stroke-linecap="round"/>
+ <path d="M238 145H254M238 176H254" stroke="#8092AE" stroke-width="3" stroke-linecap="round"/>
+</g>
+<rect x="40" y="285" width="880" height="2" rx="1" fill="url(#accent)" opacity=".7"/>
+</svg>
