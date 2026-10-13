@@ -18,7 +18,7 @@ I enjoy understanding how systems work, troubleshooting problems, and making eve
 ## Skills & technologies
 
 <p align="center">
-  <img src="./skills.svg" width="100%" alt="Linux, Docker, Proxmox, Oracle, Networking and Python logos" />
+  <img src="./skills.svg" width="100%" alt="Linux, Docker, Proxmox, Ansible, Networking and Python logos" />
 </p>
 
 | Technology | My focus |
@@ -26,7 +26,7 @@ I enjoy understanding how systems work, troubleshooting problems, and making eve
 | **Linux** | System administration, services, and troubleshooting |
 | **Docker** | Containers and application environments |
 | **Proxmox** | Virtualization and virtual machine management |
-| **Oracle** | Working with Oracle technologies |
+| **Ansible** | Configuration management and infrastructure automation |
 | **Networking** | Network fundamentals and connectivity troubleshooting |
 | **Python** | Scripting and automating repetitive tasks |
 
