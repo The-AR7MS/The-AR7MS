@@ -1,7 +1,7 @@
 # Asset credits
 
-- Linux, Docker and Proxmox icons: [Simple Icons](https://github.com/simple-icons/simple-icons), CC0-1.0.
-- Oracle and Python icons: [Devicon](https://github.com/devicons/devicon), MIT license reproduced below.
+- Linux, Docker, Proxmox and Ansible icons: [Simple Icons](https://github.com/simple-icons/simple-icons), CC0-1.0.
+- Python icon: [Devicon](https://github.com/devicons/devicon), MIT license reproduced below.
 - Networking icon and profile artwork: custom SVG artwork.
 
 Brand names and logos belong to their respective owners. They identify technologies used by the profile owner and do not imply endorsement.
